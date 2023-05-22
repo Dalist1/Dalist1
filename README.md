@@ -35,8 +35,9 @@ My passions:
 ---
 
 ### 🔥 &nbsp; My Stats :
+<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=dalist1&theme=algolia&border_radius=20)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalist1&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 ---
