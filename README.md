@@ -40,6 +40,3 @@
 ## 🔥 &nbsp; GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=dalist1&theme=algolia&border_radius=20)](https://github.com/dalist1)
 ---
-## 💯 &nbsp; My Top Languages:
-[![Top Langs](https://dalist1-stats.vercel.app/api/top-langs/?username=dalist1&theme=algolia&count_private=true)](https://github.com/dalist1)
----
