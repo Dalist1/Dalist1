@@ -1,8 +1,8 @@
+<h1 align="center">Hi there, I'm Frensi - aka Dalist<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
 <p align="center">
 <a href="https://www.buymeacoffee.com/dalist" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=dalist&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
-
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="600" height="300"  /></p>
 
@@ -35,6 +35,4 @@ My passions:
 ---
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=dalist1&theme=algolia&border_radius=20)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalist1&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
