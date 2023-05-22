@@ -14,8 +14,8 @@
 
 My passions:
 
-- ⚡ Build AI tools and Web Applications.
-- 🚩 Participate in Capture the Flag competitions.
+- ⚡ Building AI tools and Web Applications.
+- 🚩 Competing in Capture the Flag competitions.
 - 💻 DevOps, Automation and CyberSecurity Research.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-dalist-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/frensiqatipi/)
 
