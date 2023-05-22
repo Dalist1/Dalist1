@@ -5,15 +5,15 @@
 </p>
 &nbsp;&nbsp;
 
-# 🚀 About Me:
+## 🚀 About Me:
 
 - ⚡ Building AI tools and Web Applications.
 - 🚩 Competing in Capture the Flag competitions.
 - 💻 DevOps, Automation and CyberSecurity Research.
 ---
-&nbsp;&nbsp;
+&nbsp;
 
-## Let's get connected:
+### Let's get connected:
 [![website](./img/globe-light.svg)](https://dalist1.github.io/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://dalist1.github.io/#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -22,22 +22,22 @@
 &nbsp;&nbsp;
 
 
-## Languages and Tools:
+### Languages and Tools:
 
 <p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&&nbsp;&nbsp;
-<img src="./img/next.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass"  alt="Sass" width="40" height="40"/>&&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" **alt="Terraform" width="40" height="40"/>&&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Git" **alt="Git" width="40" height="40"/>&&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
+<img src="./img/next.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass"  alt="Sass" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" **alt="Terraform" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;&nbsp;
 </p>
 
 ---
-### 🔥 &nbsp; My Stats :
+## 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=dalist1&theme=algolia&border_radius=20)](https://git.io/streak-stats)
 ---
