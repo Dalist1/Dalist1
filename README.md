@@ -11,8 +11,9 @@
 - 🚩 Competing in Capture the Flag competitions.
 - 💻 DevOps, Automation and CyberSecurity Research.
 ---
+&nbsp;&nbsp;
 
-## 🚀 &nbsp;Connect with me:
+## Let's get connected:
 [![website](./img/globe-light.svg)](https://dalist1.github.io/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://dalist1.github.io/#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -21,7 +22,7 @@
 &nbsp;&nbsp;
 
 
-## 🛠 &nbsp;Languages and Tools:
+## Languages and Tools:
 
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&&nbsp;&nbsp;
