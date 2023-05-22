@@ -11,7 +11,6 @@
 - 🚩 Competing in Capture the Flag competitions.
 - 💻 DevOps, Automation and CyberSecurity Research.
 ---
-&nbsp;
 
 ### Let's get connected:
 [![website](./img/globe-light.svg)](https://dalist1.github.io/#gh-light-mode-only)
