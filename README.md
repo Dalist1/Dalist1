@@ -1,7 +1,3 @@
-
-<p align="center">
-<a href="https://www.linkedin.com/in/frensiqatipi1"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
 <p align="center">
 <a href="https://www.buymeacoffee.com/dalist" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=dalist&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
