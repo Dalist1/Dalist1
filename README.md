@@ -12,13 +12,15 @@
 - 💻 DevOps, Automation and CyberSecurity Research.
 ---
 
-## Let's get connected:
+<div align="center">
+<h2> Let's get connected:</h2>
 [![website](./img/globe-light.svg)](https://dalist1.github.io/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://dalist1.github.io/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/frensiqatipi/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/frensiqatipi/#gh-dark-mode-only)
 &nbsp;&nbsp;
+</div>
 
 
 ## Languages and Tools:
@@ -36,7 +38,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;&nbsp;
 </p>
 
----
-## 🔥 &nbsp; GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=dalist1&theme=algolia&border_radius=20)](https://github.com/dalist1)
+<div align="center">
+<h2>🔥 &nbsp; GitHub Stats:</h2>
+<p>
+<img src="https://streak-stats.demolab.com?user=dalist1&theme=algolia&border_radius=20&hide_border=true" alt="Github Streak"/>
+</p>
+</div>
+(https://github.com/dalist1)
 ---
