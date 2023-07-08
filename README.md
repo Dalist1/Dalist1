@@ -12,20 +12,20 @@
 - 💻 DevOps, Automation and CyberSecurity Research.
 ---
 
-<div align="center">
-<h2> Let's get connected:</h2>
-[![website](./img/globe-light.svg)](https://dalist1.github.io/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://dalist1.github.io/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/frensiqatipi/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/frensiqatipi/#gh-dark-mode-only)
-&nbsp;&nbsp;
-</div>
-
-
-## Languages and Tools:
+<h2 align="center"> Let's get connected:</h2>
 
 <p align="center">
+<a href="https://dalist1.github.io/#gh-light-mode-only" src="./img/globe-light.svg" />
+<a href="https://dalist1.github.io/#gh-dark-mode-only" src="./img/globe-dark.svg" />
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/frensiqatipi/#gh-light-mode-only" src="./img/linkedin-light.svg" />
+<a href="https://www.linkedin.com/in/frensiqatipi/#gh-dark-mode-only" src="./img/linkedin-dark.svg" />
+&nbsp;&nbsp;
+</p>
+
+
+<div align="center">
+<h2>Languages and Tools: 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;&nbsp;
@@ -36,7 +36,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" **alt="Terraform" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;&nbsp;
-</p>
+</div>
 
 <div align="center">
 <h2>🔥 &nbsp; GitHub Stats:</h2>
