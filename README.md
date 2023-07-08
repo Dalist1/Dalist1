@@ -15,17 +15,17 @@
 <h2 align="center"> Let's get connected:</h2>
 
 <p align="center">
-<a href="https://dalist1.github.io/#gh-light-mode-only" src="./img/globe-light.svg" />
-<a href="https://dalist1.github.io/#gh-dark-mode-only" src="./img/globe-dark.svg" />
+<a href="https://dalist1.github.io/#gh-light-mode-only" src="https://raw.githubusercontent.com/dalist1/dalist1/main/img/globe-light.svg" />
+<a href="https://dalist1.github.io/#gh-dark-mode-only" src="https://raw.githubusercontent.com/dalist1/dalist1/main/img/globe-dark.svg" />
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/frensiqatipi/#gh-light-mode-only" src="./img/linkedin-light.svg" />
-<a href="https://www.linkedin.com/in/frensiqatipi/#gh-dark-mode-only" src="./img/linkedin-dark.svg" />
+<a href="https://www.linkedin.com/in/frensiqatipi/#gh-light-mode-only" src="https://raw.githubusercontent.com/dalist1/dalist1/main/img/linkedin-light.svg" />
+<a href="https://www.linkedin.com/in/frensiqatipi/#gh-dark-mode-only" src="https://raw.githubusercontent.com/dalist1/dalist1/main/img/linkedin-dark.svg" />
 &nbsp;&nbsp;
 </p>
 
 
 <div align="center">
-<h2>Languages and Tools: 
+<h2>Languages and Tools:</h2>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;&nbsp;
@@ -44,5 +44,3 @@
 <img src="https://streak-stats.demolab.com?user=dalist1&theme=algolia&border_radius=20&hide_border=true" alt="Github Streak"/>
 </p>
 </div>
-(https://github.com/dalist1)
----
