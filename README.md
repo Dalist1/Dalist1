@@ -15,11 +15,11 @@
 <h2 align="center"> Let's get connected:</h2>
 
 <p align="center">
-<a href="https://dalist1.github.io/#gh-light-mode-only" src="https://raw.githubusercontent.com/dalist1/dalist1/main/img/globe-light.svg" />
-<a href="https://dalist1.github.io/#gh-dark-mode-only" src="https://raw.githubusercontent.com/dalist1/dalist1/main/img/globe-dark.svg" />
+<a href="https://dalist1.github.io/#gh-light-mode-only" src="https://raw.githubusercontent.com/dalist1/dalist1/main/img/globe-light.svg" /></a>
+<a href="https://dalist1.github.io/#gh-dark-mode-only" src="https://raw.githubusercontent.com/dalist1/dalist1/main/img/globe-dark.svg" /></a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/frensiqatipi/#gh-light-mode-only" src="https://raw.githubusercontent.com/dalist1/dalist1/main/img/linkedin-light.svg" />
-<a href="https://www.linkedin.com/in/frensiqatipi/#gh-dark-mode-only" src="https://raw.githubusercontent.com/dalist1/dalist1/main/img/linkedin-dark.svg" />
+<a href="https://www.linkedin.com/in/frensiqatipi/#gh-light-mode-only" src="https://raw.githubusercontent.com/dalist1/dalist1/main/img/linkedin-light.svg" /></a>
+<a href="https://www.linkedin.com/in/frensiqatipi/#gh-dark-mode-only" src="https://raw.githubusercontent.com/dalist1/dalist1/main/img/linkedin-dark.svg" /></a>
 &nbsp;&nbsp;
 </p>
 
