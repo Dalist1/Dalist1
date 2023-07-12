@@ -39,7 +39,7 @@
 </div>
 
 <div align="center">
-<h2>🔥 &nbsp; GitHub Stats:</h2>
+<h2>GitHub Stats:</h2>
 <p>
 <img src="https://streak-stats.demolab.com?user=dalist1&theme=algolia&border_radius=20&hide_border=true" alt="Github Streak"/>
 </p>
