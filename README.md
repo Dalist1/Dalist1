@@ -10,7 +10,6 @@
 - ⚡ Building AI tools and Web Applications.
 - 🚩 Competing in Capture the Flag competitions.
 - 💻 DevOps, Automation and CyberSecurity Research.
-- ![](https://komarev.com/ghpvc/?username=dalist1&color=0f172a)
 ---
 
 <h2 align="center"> Let's get connected:</h2>
